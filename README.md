@@ -1,4 +1,4 @@
 Algorithm
 =========
 
-simple acm !
+simple acm algorithm!
